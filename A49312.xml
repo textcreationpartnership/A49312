@@ -1,0 +1,491 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Low-country soldier turned burgomaster</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49312</idno>
+            <idno type="STC">Wing L3297_VARIANT-B</idno>
+            <idno type="STC">ESTC R40018</idno>
+            <idno type="EEBO-CITATION">18659879</idno>
+            <idno type="OCLC">ocm 18659879</idno>
+            <idno type="VID">108111</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108111)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1657:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Low-country soldier turned burgomaster</title>
+               </titleStmt>
+               <extent>1 broadside : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed in Aldermary Church Yard,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated with 3 woodcuts.</note>
+                  <note>Last line reads: And he prov'd grateful to his frin.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:108111:1"/>
+            <head>The Low-Country <hi>SOLDIER</hi> turned <hi>BURGOMASTER.</hi>
+               <figure/>
+            </head>
+            <div n="1" type="part">
+               <head>PART I.</head>
+               <lg>
+                  <l>HERE you may ſee the turns of fate,</l>
+                  <l>From woe to joy, from poor t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> great;</l>
+                  <l>A mark of fortune's ſpecial love,</l>
+                  <l>Who did a ſoldier's grief remove.</l>
+               </lg>
+               <lg>
+                  <l>One who in former days, 'tis told,</l>
+                  <l>Had trudg'd thro' weather hot and cold;</l>
+                  <l>'Till he was poor and pennyleſs,</l>
+                  <l>You would have laugh'd to have ſeen the dre<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <l>His ſhoes with trudging up and down,</l>
+                  <l>No ſole they had; a hat no crown;</l>
+                  <l>His coat no ſleeves, his ſhirt the ſame,</l>
+                  <l>But by his ſide a ſword of fame.</l>
+               </lg>
+               <lg>
+                  <l>Without a ſeabbard good or bad,</l>
+                  <l>Nor was there any to be had;</l>
+                  <l>His coat and breeches would not come,</l>
+                  <l>In depth to cover half his bum.</l>
+               </lg>
+               <lg>
+                  <l>Now being weary of his trade,</l>
+                  <l>One day he to his captain ſaid,</l>
+                  <l>Pray now give me a full diſcharge,</l>
+                  <l>That I my fortune may enlarge.</l>
+               </lg>
+               <lg>
+                  <l>I am perſuaded I ſhall be</l>
+                  <l>A burgomaſter, ſir, ſaid he.</l>
+                  <l>To Venice, if you'll let me go.</l>
+                  <l>His captain ſmiling anſwer'd, No.</l>
+               </lg>
+               <lg>
+                  <l>With you, ſaid he, I will not part.</l>
+                  <l>Then, thought the ſoldier, I'll deſert</l>
+                  <l>My colours, let what will befal:</l>
+                  <l>And ſoon he went for good and all.</l>
+               </lg>
+               <lg>
+                  <l>Now as he march'd with all his might,</l>
+                  <l>A coachman and his worthy knight,</l>
+                  <l>Upon the road he chanc'd to find.</l>
+                  <l>And ask'd to borrow full five pound.</l>
+               </lg>
+               <lg>
+                  <l>At this the knight laugh'd out amain,</l>
+                  <l>And ſaid, When will you pay it again;</l>
+                  <l>He anſwer'd, Sir, you ſhall be paid</l>
+                  <l>When I am burgomaſter made.</l>
+               </lg>
+               <lg>
+                  <l>Of Venice, which will be my lot,</l>
+                  <l>The noble knight away he got,</l>
+                  <l>And laugh'd to ſee him in that trim,</l>
+                  <l>But ſtill the coachman lent it him.</l>
+               </lg>
+               <lg>
+                  <l>This being done, away he went</l>
+                  <l>To Venice, where ſome time he ſpent,</l>
+                  <l>To view the palace rich and gay,</l>
+                  <l>And then to Burgo's took his way.</l>
+               </lg>
+               <lg>
+                  <l>Who kept a houſe to entertain</l>
+                  <l>All kind of gueſt. He call'd amain</l>
+                  <l>For wine and other liquors free,</l>
+                  <l>Tho' in a wretched garb was he.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>PART II.</head>
+               <lg>
+                  <l>THIS ſoldier was a gallant blade,</l>
+                  <l>And while in pleaſure there he ſtay'd;</l>
+                  <l>Behold a 'ſquire living near,</l>
+                  <l>Courted the burgo's daughter dear,</l>
+               </lg>
+               <lg>
+                  <l>Now as he kept her company,</l>
+                  <l>One day the ſoldier ſitting by,</l>
+                  <l>Feigning aſleep, he overheard</l>
+                  <l>This private talk as it appeared.</l>
+               </lg>
+               <lg>
+                  <l>Part of the private talk was this,</l>
+                  <l>My dear ſweet love the charming bliſs,</l>
+                  <l>Let me enjoy this ſelf-ſame night.</l>
+                  <l>The damſel told him that he might.</l>
+               </lg>
+               <lg>
+                  <l>If he would to her chamber creep,</l>
+                  <l>When all the houſe was faſt aſleep,</l>
+                  <l>About the hour of twelve o'clock</l>
+                  <l>She would the door for him unlock.</l>
+               </lg>
+               <lg>
+                  <l>The ſoldier heard the whole deſign,</l>
+                  <l>Thought he, The pleaſure ſhall be mine,</l>
+                  <l>And thereupon he went before</l>
+                  <l>To the young lady's chamber-door.</l>
+               </lg>
+               <lg>
+                  <l>He knock'd, and ſoon ſhe let him in.</l>
+                  <l>A pleaſant game did then begin;</l>
+                  <l>And ere an hour's time was paſt</l>
+                  <l>Her love the 'ſquire came at laſt.</l>
+               </lg>
+               <lg>
+                  <l>He knock'd, Who's there, the lady cry'd!</l>
+                  <l>The ſoldier lying by her ſide</l>
+                  <l>Said, It is the ragged fellow ſure,</l>
+                  <l>Who ſeem'd as if he ſlept ſecure.</l>
+               </lg>
+               <lg>
+                  <l>He heard us, and is come to have</l>
+                  <l>That pleaſure which our love did crave;</l>
+                  <l>But it's in vain, I will ariſe</l>
+                  <l>And daſh the piſs-pot in his eyes.</l>
+               </lg>
+               <lg>
+                  <l>Accordingly, in woeful caſe,</l>
+                  <l>He daſh'd it in the 'ſquire's face;</l>
+                  <l>Away he goes, and nothing ſaid,</l>
+                  <l>Suppoſing it had been the maid.</l>
+               </lg>
+               <lg>
+                  <l>She laughed at the pleaſant jeſt,</l>
+                  <l>And gave him then among the reſt</l>
+                  <l>A diamond ring with kiſſes ſweet,</l>
+                  <l>But did not underſtand the cheat.</l>
+               </lg>
+               <lg>
+                  <l>Then he aroſe and went his way.</l>
+                  <l>Behold on the ſucceeding day,</l>
+                  <l>Upon his right-hand the ring ſhe eſpy'd.</l>
+                  <l>Pray where had you the ſame, ſhe cry'd?</l>
+               </lg>
+               <lg>
+                  <l>He anſwer'd then, and thus he ſaid,</l>
+                  <l>Pray be not in the leaſt diſmay;</l>
+                  <l>For you was loving, kind and free,</l>
+                  <l>Laſt night, and gave the ſame to me.</l>
+               </lg>
+               <lg>
+                  <l>O bleſs me! did I lie with you?</l>
+                  <l>Since it is ſo, I pray be true;</l>
+                  <l>And do not let the ſame be told,</l>
+                  <l>So thou ſhalt never want for gold.</l>
+               </lg>
+               <lg>
+                  <l>He vow'd he would conceal the ſame,</l>
+                  <l>Soon after this the 'ſquire came,</l>
+                  <l>Saying, Why was you ſo unkind?</l>
+                  <l>The piſs pot made me almoſt blind.</l>
+               </lg>
+               <lg>
+                  <l>The youthful damſel anſwer'd thus,</l>
+                  <l>'Tis good enough if it were worſe:</l>
+                  <l>Becauſe you thought to ruin me,</l>
+                  <l>My honour and my chaſtity.</l>
+               </lg>
+            </div>
+            <div n="3" type="part">
+               <head>PART III.</head>
+               <lg>
+                  <l>IN part the third we muſt return,</l>
+                  <l>Unto a mighty great concern;</l>
+                  <l>Conſiſting of ſome thouſand pounds,</l>
+                  <l>Which the poor ſoldier's fortune crown<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Behold her wealthy father he,</l>
+                  <l>Did ſend four mighty ſhips to ſea,</l>
+                  <l>Laden with glorious merchandize,</l>
+                  <l>Rich ſilks and other wares likewiſe.</l>
+               </lg>
+               <lg>
+                  <l>They had been gone full ſeven year,</l>
+                  <l>No tale or tiding they could hear</l>
+                  <l>Of them; at length he gave them o'er,</l>
+                  <l>And never thought to ſee them more.</l>
+               </lg>
+               <lg>
+                  <l>At length there was a letter brought,</l>
+                  <l>The ſhips were ſafe with riches frought,</l>
+                  <l>Near to the borders of the land,</l>
+                  <l>Which news came to his daughter's hand.</l>
+               </lg>
+               <lg>
+                  <l>Then having view'd and read the ſame,</l>
+                  <l>She to the ragged ſoldier came;</l>
+                  <l>Crying, My dear, be true to me,</l>
+                  <l>You ſhall a Burgomaſter be.</l>
+               </lg>
+               <lg>
+                  <l>My father thinks his ſhips are loſt,</l>
+                  <l>Which now are on the Venice coaſt;</l>
+                  <l>And ere he does the tidings hear,</l>
+                  <l>Go buy his right in them, my dear,</l>
+               </lg>
+               <lg>
+                  <l>And when thou haſt the bargain bought,</l>
+                  <l>Of four large ſhips richly fraught;</l>
+                  <l>Be what it will, of me you ſhall</l>
+                  <l>Have money to pay for it all.</l>
+               </lg>
+               <lg>
+                  <l>Then on her father he did wait,</l>
+                  <l>And ſtruck a bargain with him ſtrait;</l>
+                  <l>For the four ſhips four hundred pound,</l>
+                  <l>Whether the ſame be loſt or found.</l>
+               </lg>
+               <lg>
+                  <l>No ſooner was the bargain made,</l>
+                  <l>And that ſmall ſum of money paid;</l>
+                  <l>But he heard the ſhips were come.</l>
+                  <l>Their burden was a mighty ſum,</l>
+               </lg>
+               <lg>
+                  <l>Then did the Burgomaſter fret,</l>
+                  <l>Cauſe he with ſuch a loſs had met;</l>
+                  <l>But ſince i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> could not better be,</l>
+                  <l>He with the ſoldier did agree.</l>
+               </lg>
+               <lg>
+                  <l>To take the daughter for a bride,</l>
+                  <l>With all my heart, he then reply'd;</l>
+                  <l>Then out of hand they married were,</l>
+                  <l>The ſoldier and the lady fair.</l>
+               </lg>
+               <lg>
+                  <l>No ſooner were they man and wife,</l>
+                  <l>But ſtrait her father left this life,</l>
+                  <l>And when he in his grave was laid,</l>
+                  <l>The ſon was Burgomaſter made.</l>
+               </lg>
+               <lg>
+                  <l>He that had travell'd many miles</l>
+                  <l>Was now by fortune's ſpecial ſmiles</l>
+                  <l>Made mighty, powerful and great,</l>
+                  <l>And knew no end of his eſtate.</l>
+               </lg>
+            </div>
+            <div n="4" type="part">
+               <head>PART IV.</head>
+               <lg>
+                  <l>NOW mind the latter part I pray,</l>
+                  <l>I make no queſtion but you'll ſay,</l>
+                  <l>Still as you read the ſtory out,</l>
+                  <l>The things were ſtrangely brought about.</l>
+               </lg>
+               <lg>
+                  <l>While he was Burgomaſter we hear,</l>
+                  <l>His former captain did repair</l>
+                  <l>Unto his houſe by chance to dine,</l>
+                  <l>With other brave cammanders fine.</l>
+               </lg>
+               <lg>
+                  <l>The Burgomaſter ſeeing that,</l>
+                  <l>He ſtrait put on his no crown'd hat;</l>
+                  <l>With all his ragged cloaths,</l>
+                  <l>And ſo into the room he goes.</l>
+               </lg>
+               <lg>
+                  <l>The captain then began to ſwear,</l>
+                  <l>Lieutenant, pray ſee who is there</l>
+                  <l>My ragged Burgomaſter, who</l>
+                  <l>In private from his colours flew.</l>
+               </lg>
+               <lg>
+                  <l>Strait from the preſence of his good</l>
+                  <l>He ſtep'd away, himſelf he dreſt</l>
+                  <l>In ſumptuous robes he dreſt amain.</l>
+                  <l>And then return'd to them again.</l>
+               </lg>
+               <lg>
+                  <l>The captain ſaid, Right worthy ſir</l>
+                  <l>Here is a fooliſh ragged cur:</l>
+                  <l>Endu'd with neither wit nor ſenſe,</l>
+                  <l>I'll hang him e'er I go from hence.</l>
+               </lg>
+               <lg>
+                  <l>He from his colours did deſert.</l>
+                  <l>The Burgo ſaid, Be not ſo tart.</l>
+                  <l>In preſence of theſe gentlemen,</l>
+                  <l>Write his diſcharge, here's guineas ten.</l>
+               </lg>
+               <lg>
+                  <l>He wrote the ſame, and took the gold</l>
+                  <l>The Burgomaſter ſaid, Behold,</l>
+                  <l>I am the man, and now at laſt</l>
+                  <l>What once I ſaid is come to paſs.</l>
+               </lg>
+               <lg>
+                  <l>The captain then began to fume,</l>
+                  <l>And told his gallants in the room,</l>
+                  <l>If he had known as much before,</l>
+                  <l>It ſhould have coſt him ten times more.</l>
+               </lg>
+               <lg>
+                  <l>And then within a month or leſs,</l>
+                  <l>The knight whom once he did addreſs,</l>
+                  <l>To lend him five pounds on the road,</l>
+                  <l>Come there to take up his abode.</l>
+               </lg>
+               <lg>
+                  <l>The Burgomaſter as before,</l>
+                  <l>Put on his robes both rent and tore:</l>
+                  <l>So that the kinght might know him ſtrait,</l>
+                  <l>As he did on his worſhip wait,</l>
+               </lg>
+               <lg>
+                  <l>He to his coachman turn'd him round,</l>
+                  <l>And ſaid, There's one owes you five pounds?</l>
+                  <l>When do you think the ſame to get,</l>
+                  <l>He is not Burgomaſter yet.</l>
+               </lg>
+               <lg>
+                  <l>The coachman ſaid, as I do live,</l>
+                  <l>I freely do the ſame forgive;</l>
+                  <l>Becauſe I to my ſorrow ſee,</l>
+                  <l>He ſtill remains in poverty.</l>
+               </lg>
+               <lg>
+                  <l>For ſome ſhort time he went away</l>
+                  <l>And dreſt himſelf in rich array;</l>
+                  <l>In feathers fine, and rich perfume,</l>
+                  <l>And ſo return'd into the room.</l>
+               </lg>
+               <lg>
+                  <l>Having diſcours'd with them awhile,</l>
+                  <l>He told the coachman with a ſmile.</l>
+                  <l>As he help'd him in time of need,</l>
+                  <l>He would return it now indeed.</l>
+               </lg>
+               <lg>
+                  <l>He gave him then five thouſand pound.</l>
+                  <l>Likewiſe a match for him he found,</l>
+                  <l>A ſweet young lady fair and clear,</l>
+                  <l>Daughter to a renowned peer.</l>
+               </lg>
+               <lg>
+                  <l>The knight was vexed to the heart,</l>
+                  <l>That he muſt with his ſervant part?</l>
+                  <l>But let him grieve, it muſt be ſo,</l>
+                  <l>Whether his lordſhip will or no.</l>
+               </lg>
+               <lg>
+                  <l>Thus he who once was mean and poor,</l>
+                  <l>At length enjoys a happy ſtore;</l>
+                  <l>Which fortune unto him did ſend,</l>
+                  <l>And he prov'd grateful to his fri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in Aldermary Church Yard,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
